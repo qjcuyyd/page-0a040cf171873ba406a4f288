@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "792cdbef5591cc25c518e17e",
+  "owner": "qjcuyyd",
+  "repo": "page-0a040cf171873ba406a4f288",
+  "title": "猫咪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0a040cf171873ba406a4f288",
+      "a": "猫咪",
+      "b": "",
+      "entity": "猫咪",
+      "brand": "猫咪",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c935658c60f7ad5df8c30703688fba6ece713be281ed1d3caad8312a76889688",
+      "content": {
+        "keyword1": "猫咪",
+        "keyword2": "",
+        "primary_entity": "猫咪",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "猫咪是面向全球用户的机场与 VPN 加速服务，提供高可用节点、流媒体解锁和多端客户端下载，支持 Clash 订阅一键导入，助您稳定访问与游戏加速。",
+          "AI_DESCRIPTION": "猫咪是面向全球用户的机场与 VPN 加速服务，提供高可用节点、流媒体解锁和多端客户端下载，支持 Clash 订阅一键导入，助您稳定访问与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;overflow-x:hidden}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif;background:#f3f0f8;color:#1f1b24;line-height:1.65;font-size:16px}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}.wrap{width:100%;max-width:880px;margin:0 auto;padding:0 16px}header{background:#5b21b6;color:#fff;padding:14px 0}header .brand{font-weight:700;font-size:1.15rem}header nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px}header nav a{color:#f5f3ff;font-size:0.95rem}main{padding:8px 0 32px}h1{font-size:1.7rem;color:#4c1d95;margin:20px 0 12px;line-height:1.35}h2{font-size:1.28rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.05rem;color:#6d28d9;margin:16px 0 8px}p,li{font-size:1rem}p{margin:0 0 12px}.lead{background:#fff;border:1px solid #e9d5ff;border-radius:10px;padding:16px}.scenes{display:flex;flex-direction:column;gap:10px}.scene{background:#fff;padding:12px 14px;border-radius:8px;border-left:4px solid #7c3aed}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:16px}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:6px}.price{font-size:1.35rem;font-weight:700;color:#5b21b6}.subprice{color:#57534e;font-size:0.92rem;margin:4px 0 8px}.feat{margin:0;padding-left:1.2em}.steps{display:flex;flex-direction:column;gap:12px}.step{background:#fff;padding:14px 16px;border-radius:8px;border-left:4px solid #7c3aed}.step b{display:block;color:#5b21b6;margin-bottom:4px}.dl{background:#fff;padding:16px;border-radius:10px}.faq details{background:#fff;border:1px solid #e9d5ff;border-radius:8px;padding:12px 14px;margin:0 0 10px}.faq summary{font-weight:650;color:#5b21b6}.faq details p{margin:8px 0 0;color:#3f3f46}.ad{margin:24px 0;background:#fff;border:1px dashed #c4b5fd;border-radius:8px;padding:16px;text-align:center;color:#57534e}footer{background:#ede9fe;padding:24px 0;font-size:0.92rem;color:#44403c}footer h2{font-size:1.05rem;margin-top:0}.links a{margin-right:10px}#sitemap ul{padding-left:1.2em;margin:8px 0}@media (min-width:760px){header .bar{display:flex;align-items:center;justify-content:space-between}header nav{margin-top:0}.plans{flex-direction:row;align-items:stretch}.plan{flex:1}h1{font-size:1.9rem}}</style><header><div class=\"wrap bar\"><div class=\"brand\">猫咪 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#download\">下载</a><a href=\"#guide\">教程</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>猫咪：官方机场 VPN 梯子与网络加速平台</h1><section id=\"intro\"><h2>品牌简介</h2><div class=\"lead\"><p>猫咪是面向个人与小团队的官方机场服务，同时覆盖 VPN 梯子与网络加速场景。我们以可切换的全球节点、标准订阅和主流客户端兼容为核心，让访问、观影与游戏连接更稳定、更可控。</p><p>线路侧提供普通节点池与 IPLC 优化通道，协议侧兼容 Trojan、VLESS 及 Clash 系订阅。本站是猫咪官方网站，套餐说明、操作步骤与客户端下载指引均在此发布。请通过本页完成了解与订阅，避免来路不明的仿冒站点。</p><p>服务定位清晰：轻度浏览用基础流量，流媒体与游戏走旗舰线路，多成员协作使用团队版。不承诺突破任何特定站点的永久可用性，但会持续维护节点质量与工单响应。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scenes\"><article class=\"scene\"><h3>海外流媒体与内容访问</h3><p>在支持的节点上观看常见影视与音乐平台。基础版覆盖日常解锁，旗舰版强调全节点原生体验，减少区域限制带来的中断。</p></article><article class=\"scene\"><h3>游戏加速与低延迟对战</h3><p>旗舰版与团队版包含 IPLC 专线优化，适合对延迟和丢包更敏感的在线对战、下载与语音。</p></article><article class=\"scene\"><h3>远程办公与云协作</h3><p>稳定访问邮箱、网盘、设计稿与视频会议。多设备同时在线，方便电脑与手机切换。</p></article><article class=\"scene\"><h3>开发、学术与资料检索</h3><p>顺畅打开代码托管、文档站点与公开资料库，减少超时与反复刷新。</p></article><article class=\"scene\"><h3>差旅与多终端备用</h3><p>按套餐设备数同时在线，出行时用手机热点或旅馆网络也能快速切到可用节点。</p></article></div></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为当前公开套餐。流量按自然月计算，年付可降低月均成本。订阅成功后即可在控制中心复制 Clash / 通用订阅地址。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"subprice\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版 <span class=\"badge\">推荐</span></h3><div class=\"price\">¥35/月</div><div class=\"subprice\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"subprice\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"download\"><h2>客户端下载与官方获取说明</h2><div class=\"dl\"><p>猫咪官方下载策略是：订阅由官网发放，客户端使用广泛验证的开源或商店应用，降低捆绑安装风险。请先确认系统，再按教程导入订阅。</p><h3>桌面端</h3><p>Windows 与 macOS 推荐 Clash Verge、Clash Meta 内核客户端，或系统代理类工具。安装完成后选择「从 URL 导入」粘贴猫咪订阅。</p><h3>移动端</h3><p>Android 可使用 Clash Meta for Android。iOS 常用 Shadowrocket、Stash，需通过官方商店自行获取应用，再扫描或粘贴订阅。</p><h3>导入格式</h3><p>控制中心同时提供 Clash 订阅与通用链接。更新订阅后选择延迟较低、符合场景的节点，按需开启系统代理或 TUN。</p><p><a href=\"#guide\">查看纵向操作步骤</a> · <a href=\"#faq\">客户端相关问答</a></p></div></section><section id=\"guide\"><h2>操作说明</h2><p>按下列纵向步骤即可完成从选购到连上节点。每一步对应一个可核对的结果，避免跳步导致导入失败。</p><div class=\"steps\"><div class=\"step\"><b>步骤 1 · 对照需求选套餐</b>浏览流量、设备数与线路类型。轻度网页用基础版；流媒体和游戏优先旗舰版；多人共用选团队版。</div><div class=\"step\"><b>步骤 2 · 完成订阅并复制链接</b>支付成功后进入用户中心，复制 Clash 或通用订阅地址。不要把链接发到公开聊天。</div><div class=\"step\"><b>步骤 3 · 安装对应客户端</b>根据 Windows、macOS、Android 或 iOS 安装可信客户端。本页「客户端下载」给出推荐类别，不强制闭源安装包。</div><div class=\"step\"><b>步骤 4 · 导入猫咪订阅</b>在客户端选择从 URL / 二维码导入，粘贴官网提供的地址并更新节点列表。</div><div class=\"step\"><b>步骤 5 · 选择节点并连接</b>按延迟或地区筛选，启用系统代理或 TUN。流媒体选解锁节点，游戏选 IPLC 或低丢包线路。连上后即可作为梯子与网络加速使用。</div></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p>以下问题覆盖品牌定位、下载、导入与套餐规则，便于在工单前提前自查。</p><details><summary>猫咪是机场还是传统 VPN？有何不同？</summary><p>猫咪以机场订阅方式提供多节点 VPN 能力。你可以按延迟、地区和用途切换线路，而不是绑定单一出口。对需要分流、流媒体和解锁的用户，灵活度高于固定 VPN 客户端。</p></details><details><summary>如何进行猫咪官网的客户端下载？</summary><p>请停留在本官方网站阅读「客户端下载」章节，按系统选择 Clash 系或商店应用，再导入订阅。我们不通过来历不明的网盘分发可执行文件，以降低篡改风险。</p></details><details><summary>订阅导入失败或节点为空怎么办？</summary><p>先确认链接完整、客户端支持 Clash 或通用订阅，然后手动更新。若仍为空，到用户中心重置订阅后再导入。公司网络或本地防火墙有时会拦截更新，可更换网络重试。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>基础版适合浏览与轻度解锁；旗舰版提高流量、设备数，并加入原生解锁与 IPLC 游戏优化；团队版面向多成员与定制路由。年付价格已在套餐卡中标明。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后加速会暂停，可等待下个周期或升级套餐。同时在线超过套餐台数时，新会话可能被拒绝，下线一台设备即可恢复。</p></details><details><summary>是否保证所有流媒体始终可播？</summary><p>旗舰版强调全节点原生解锁，但目标平台会调整策略，效果可能随时间变化。遇到单一平台异常，可更换节点或提交工单说明地区与客户端版本。</p></details><details><summary>怎样确认自己访问的是猫咪官方网站？</summary><p>认准品牌名「猫咪」以及本页公布的套餐与教程结构。不要通过陌生人转发的短链登录。订阅与重置只在官方用户中心操作。</p></details></section><div class=\"ad\" id=\"ads\">合作广告位：欢迎网络设备、安全软件与内容平台洽谈品牌展示（本区域为站内说明，不含外部跳转脚本）。</div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>官方身份、站点地图与友链</h2><p>本站为猫咪官方网站，发布机场订阅说明、VPN 梯子使用方法和客户端下载指引。服务内容为合法网络加速信息与客户端配置教学，请遵守所在地法律法规与目标网站条款。</p><div id=\"sitemap\"><h3>Sitemap</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐与订阅</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告位</a></li></ul></div><p class=\"links\">友链：<a href=\"#guide\">Clash 导入指南</a><a href=\"#download\">官方下载说明</a><a href=\"#faq\">帮助中心</a><a href=\"#plans\">套餐一览</a><a href=\"#\">使用条款</a><a href=\"#\">隐私说明</a></p><p>© 猫咪官方网站 · 机场订阅与 VPN 网络加速服务</p></div></footer>",
+          "hash": "245dc3721e1eff296e60ac5b60d5a8a65ae9038e3357687e24d1483a666ca20e",
+          "seo": {
+            "title": "猫咪官网 - VPN 梯子网络加速、机场订阅与客户端官方下载",
+            "keywords": "猫咪,猫咪机场,猫咪VPN,猫咪官网,VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载,IPLC",
+            "description": "猫咪是面向全球用户的机场与 VPN 加速服务，提供高可用节点、流媒体解锁和多端客户端下载，支持 Clash 订阅一键导入，助您稳定访问与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dpngk.cn",
+    "host": "p-a401993b08.dpngk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "dpngk.cn",
+      "url": "https://dpngk.cn/",
+      "label": "Walless",
+      "apex": "dpngk.cn",
+      "kind": null,
+      "identity": "ybepvqmnk/page-fd86ee861eb4320749a7054a"
+    },
+    {
+      "host": "naxou.cn",
+      "url": "https://naxou.cn/",
+      "label": "猫咪",
+      "apex": "naxou.cn",
+      "kind": null,
+      "identity": "wkyaxrbu/page-1d9a63cf2502075725f8009c"
+    },
+    {
+      "host": "ngfxkzt.cn",
+      "url": "https://ngfxkzt.cn/",
+      "label": "猫咪",
+      "apex": "ngfxkzt.cn",
+      "kind": null,
+      "identity": "yeqbrungek/page-46c63de05c26e354313ceb18"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "82f0b7f99254fa402dbc539889fc0815c24a63cd4bb6c7d1d6645d4786d5ceba",
+    "sitemap.xml": "9055ae91e53d7e996846a79fa82dfa3db0230023f8c29f8877c74976a27c2567",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cee33bc3f573def94d6839bf0c8207c63e04184d7bc2437737e19c6fa8a64a8f",
+    "robots.txt": "ca199cc5495dbfd1b1cca5baea279019aa399a10f170c13cfdefc276d822588b",
+    "00031b8030225917c31f1a2a818094b5.txt": "ef02eac3edbb223b8f1fd9c8d13883523ae7e07d8dc3cc33020e3d5e46c38520"
+  },
+  "revision": "d8c1c112b88adda08b1acfafc315399201db7374b8db920bcd7e22e7992b5f2e"
+}
